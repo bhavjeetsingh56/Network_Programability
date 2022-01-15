@@ -30,7 +30,7 @@ response = requests.request("PUT", url, headers=headers, data=payload, verify=Fa
 
 
 
-
+#To see the changes which we have sent via the POST Method.
 
 payload={}
 headers = {
